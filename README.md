@@ -26,5 +26,15 @@ The words performing architecture is the BRNN with an accuracy of ~20%. This is 
 |	LSTM based RNN with pretrained word embedding	|	0.32	|
 
 
+### RNN.Q2
+Run the above architectures for the financial data (note that this data is typically much shorter in length). Try out at least two different architectures (not just optimizer settings, etc.) to see if you can improve the results. 
+
+* **Describe the two architectures you proposed and why you think they might improve results**
+* **Answer which architecture worked best (reference a graph) and why you hypothesize this is the case**
+* **Do the same for the worst performing architecture**
+
+
 ### Original architectures for Q2: 
 * A4_Q2_LSTM_based_RNN_text_classifier_with_pretrained_word_embedding.ipynb 
+
+
