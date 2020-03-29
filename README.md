@@ -10,3 +10,7 @@ Architectures like RNNs perform better when it comes to sequence to sequence dat
 
 **(b) do the same for the worst performing architecture.**
 The words performing architecture is the BRNN with an accuracy of ~20%. This is because bi-directional recurrent neural networks are good to use when a sense of sequence is required, i.e. a sense of dependence on the past for future data, which is not the case in document classification. 
+
+
+### Original architectures for Q2: 
+* A4_Q2_LSTM_based_RNN_text_classifier_with_pretrained_word_embedding.ipynb 
