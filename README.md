@@ -23,7 +23,7 @@ The words performing architecture is the BRNN with an accuracy of ~20%. This is 
 |	Pure CNN with pretrained word embedding	|	0.17	|
 |	LSTM based RNN with pretrained word embedding	|	0.28	|
 |	Bidirectional LSTM RNN	|	0.17	|
-|	LSTM based RNN with pretrained word embedding	|	0.32	|
+|	LSTM based RNN with pretrained word embedding (TBPTT)	|	0.32	|
 
 
 ### RNN.Q2
