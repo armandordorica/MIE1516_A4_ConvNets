@@ -176,7 +176,7 @@ tqdm==4.19.1
 traitlets==4.3.3
 troposphere==2.5.3
 Unidecode==1.1.1
-urllib3==1.25.7
+urllib3==1.26.5
 URLObject==2.4.3
 virtualenv==20.0.13
 wcwidth==0.1.7
