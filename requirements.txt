@@ -107,7 +107,7 @@ nbextensions==0.1.0
 nbformat==5.0.4
 nbresuse==0.3.3
 nltk==3.4.5
-notebook==6.0.3
+notebook==6.4.1
 npm==0.1.1
 numpy==1.17.4
 oauth2==1.9.0.post1
